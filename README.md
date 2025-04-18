@@ -18,7 +18,7 @@ npm install
 npm run dev
 ```
 
-## ブンランチを切る
+## ブランチを切る
 現在のブランチを確認
 ```
 git branch
